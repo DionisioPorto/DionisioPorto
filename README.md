@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="LINK_DO_BANNER_AQUI" width="100%">
+<img src="<img width="1983" height="793" alt="42a31e79-af69-4088-81ca-e4e0dc781294" src="https://github.com/user-attachments/assets/9881eaf6-f054-4766-8f23-803ba661ed2e" />" width="100%">
 
 </div>
 
@@ -38,6 +38,4 @@ Atualmente atuo desenvolvendo dashboards, automações de processos e soluções
 
 - LinkedIn: linkedin.com/in/dionísio-porto1604f
 - Email: dionisioporto16@gmail.com
-<img width="1983" height="793" alt="42a31e79-af69-4088-81ca-e4e0dc781294" src="https://github.com/user-attachments/assets/3444466d-9093-486c-8cd1-daaad9fd7e5e" />
-<img width="1983" height="793" alt="42a31e79-af69-4088-81ca-e4e0dc781294" src="https://github.com/user-attachments/assets/2e4deb91-0525-4dac-b63d-f8f9e6d4fbb1" />
-<img width="1983" height="793" alt="42a31e79-af69-4088-81ca-e4e0dc781294" src="https://github.com/user-attachments/assets/9881eaf6-f054-4766-8f23-803ba661ed2e" />
+- 41997498475
