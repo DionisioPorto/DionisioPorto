@@ -8,9 +8,13 @@
 
 ## 🚀 Sobre mim
 
-Analista de Automação e Dados com experiência em operações, monitoramento, análise de dados e melhoria contínua.
+Analista de Automação e Dados apaixonado por tecnologia, resolução de problemas e melhoria contínua.
 
-Atualmente atuo desenvolvendo dashboards, automações de processos e soluções para otimização operacional.
+Atualmente desenvolvo dashboards, automações e soluções para otimização operacional, utilizando Power BI, SQL, Excel e Python. Tenho experiência com análise de indicadores, monitoramento de operações e transformação de dados em insights para apoiar decisões estratégicas.
+
+Além da área de dados, possuo conhecimentos em infraestrutura de TI, redes e suporte técnico, o que me permite ter uma visão ampla dos processos e da tecnologia por trás das operações.
+
+Sempre buscando aprender, construir projetos e compartilhar conhecimento através da tecnologia.
 
 ### 🛠 Tecnologias
 
